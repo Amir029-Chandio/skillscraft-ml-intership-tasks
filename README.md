@@ -24,7 +24,7 @@ Predict house prices based on features like area, number of rooms, and location 
 **Amir Bux Chandio**  
 🎓 Data Science Student  
 📧 amirbuxchandio35@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/amirbuxchandio)
+🔗 https://www.linkedin.com/in/amir-bux-chandio-860604261
 
 ## 🙏 Internship
 This task was completed during my **Machine Learning Internship at SkillCraft Technology**.
