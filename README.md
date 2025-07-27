@@ -42,8 +42,5 @@ To predict house prices using a **Linear Regression model** based on various fea
 - Scikit-learn
 - Google Colab
 
----
-
-### 📂 Folder Structure:
 
 
